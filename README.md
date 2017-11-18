@@ -26,6 +26,7 @@ Bonuses
 Bonus (1):
 
 Write the ICO smart contract that will collect ETH, and distribute the game token, with a soft cap and a hard cap.
+
 Bonus (2):
 
 Write a simple multi-sig wallet that will work for %%COMPANY%% and their players.
